@@ -1,0 +1,2 @@
+# nextcloud ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/voydz/nextcloud) ![Docker Pulls](https://img.shields.io/docker/pulls/voydz/nextcloud)
+A docker image for running nextcloud derived from the `full example` on the nextcloud main repository.
